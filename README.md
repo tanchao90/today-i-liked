@@ -18,3 +18,4 @@ The tool that I used is a Chrome extension, which address is [Idnan/like-on-git]
 - [KCP 1.3 发布，快速传输协议 - 开源中国社区](https://www.oschina.net/news/70942/kcp-1-3) 
 - [ARQ协议简介-zhenhuaqin-ChinaUnix博客](http://blog.chinaunix.net/uid-21411227-id-1826645.html) 
 - [TCP网络关闭的状态变换时序图 | | 酷 壳 - CoolShell](http://coolshell.cn/articles/1484.html) 
+- [TCP 的那些事儿（上） | | 酷 壳 - CoolShell](http://coolshell.cn/articles/11564.html) 
