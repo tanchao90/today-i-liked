@@ -29,3 +29,4 @@ The tool that I used is a Chrome extension, which address is [Idnan/like-on-git]
 - [JSON and BSON | MongoDB](https://www.mongodb.com/json-and-bson) 
 - [BSON特性探讨及基于其特性的MongoDB优化 - NoSQLFan - 关注NoSQL相关技术、新闻](http://blog.nosqlfan.com/html/2914.html) 
 - [将二进制数据嵌入json的几种方法 | 知行一](http://purecpp.org/?p=760) 
+- [MessagePack: It's like JSON. but fast and small.](http://msgpack.org/) 
