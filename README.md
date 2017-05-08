@@ -27,3 +27,4 @@ The tool that I used is a Chrome extension, which address is [Idnan/like-on-git]
 - [浅析SkipList跳跃表原理及代码实现 - 博客频道 - CSDN.NET](http://blog.csdn.net/ict2014/article/details/17394259) 
 - [BSON - Binary JSON](http://bsonspec.org/) 
 - [JSON and BSON | MongoDB](https://www.mongodb.com/json-and-bson) 
+- [BSON特性探讨及基于其特性的MongoDB优化 - NoSQLFan - 关注NoSQL相关技术、新闻](http://blog.nosqlfan.com/html/2914.html) 
