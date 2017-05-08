@@ -23,3 +23,4 @@ The tool that I used is a Chrome extension, which address is [Idnan/like-on-git]
 
 ### May 8, 2017
 - [Redis 设计与实现 — Redis 设计与实现](http://redisbook.com/) 
+- [跳跃表的实现 — Redis 设计与实现](http://redisbook.com/preview/skiplist/datastruct.html) 
