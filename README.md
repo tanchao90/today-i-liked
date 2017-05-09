@@ -30,3 +30,6 @@ The tool that I used is a Chrome extension, which address is [Idnan/like-on-git]
 - [BSON特性探讨及基于其特性的MongoDB优化 - NoSQLFan - 关注NoSQL相关技术、新闻](http://blog.nosqlfan.com/html/2914.html) 
 - [将二进制数据嵌入json的几种方法 | 知行一](http://purecpp.org/?p=760) 
 - [MessagePack: It's like JSON. but fast and small.](http://msgpack.org/) 
+
+### May 9, 2017
+- [Java 内存区域详解 - 江米条 - SegmentFault](https://segmentfault.com/a/1190000002931555) 
