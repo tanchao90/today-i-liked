@@ -39,3 +39,4 @@ The tool that I used is a Chrome extension, which address is [Idnan/like-on-git]
 - [What is gevent? — gevent 1.2.2dev0 documentation](http://www.gevent.org/) 
 - [python bottle使用多个端口（多个进程）提高并发 - linux系统运维 - 博客园](http://www.cnblogs.com/drfdai/p/4518121.html) 
 - [Python 进程管理工具 Supervisor 使用教程 | 淡水网志](http://www.restran.net/2015/10/04/supervisord-tutorial/) 
+- [使用 supervisor 管理进程 - 李林克斯](http://liyangliang.me/posts/2015/06/using-supervisor/) 
