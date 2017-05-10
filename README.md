@@ -44,3 +44,4 @@ The tool that I used is a Chrome extension, which address is [Idnan/like-on-git]
 ### May 10, 2017
 - [Redis持久化RDB和AOF相比较 – 运维那点事](http://www.ywnds.com/?p=4876) 
 - [redis持久化——RDB、AOF | 晓的技术博客](https://lanjingling.github.io/2015/11/16/redis-chijiuhua/) 
+- [Copy-On-Write | | 酷 壳 - CoolShell](http://coolshell.cn/tag/copy-on-write) 
