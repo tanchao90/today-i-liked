@@ -47,3 +47,4 @@ The tool that I used is a Chrome extension, which address is [Idnan/like-on-git]
 - [Copy-On-Write | | 酷 壳 - CoolShell](http://coolshell.cn/tag/copy-on-write) 
 - [Java中的CopyOnWrite容器 | | 酷 壳 - CoolShell](http://coolshell.cn/articles/11175.html) 
 - [Linux写时拷贝技术(copy-on-write) - as_ - 博客园](http://www.cnblogs.com/biyeymyhjob/archive/2012/07/20/2601655.html) 
+- [Copy-on-write - Wikipedia](https://en.wikipedia.org/wiki/Copy-on-write) 
