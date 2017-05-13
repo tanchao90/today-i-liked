@@ -48,3 +48,6 @@ The tool that I used is a Chrome extension, which address is [Idnan/like-on-git]
 - [Java中的CopyOnWrite容器 | | 酷 壳 - CoolShell](http://coolshell.cn/articles/11175.html) 
 - [Linux写时拷贝技术(copy-on-write) - as_ - 博客园](http://www.cnblogs.com/biyeymyhjob/archive/2012/07/20/2601655.html) 
 - [Copy-on-write - Wikipedia](https://en.wikipedia.org/wiki/Copy-on-write) 
+
+### May 13, 2017
+- [监听获取程序退出事件（Linux、Windows、Java、C++） - jmppok的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/jmppok/article/details/16845627) 
