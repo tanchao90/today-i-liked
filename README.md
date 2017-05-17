@@ -72,3 +72,4 @@ The tool that I used is a Chrome extension, which address is [Idnan/like-on-git]
 ### May 17, 2017
 - [A roadmap to becoming a web developer in 2017 – freeCodeCamp](https://medium.freecodecamp.com/a-roadmap-to-becoming-a-web-developer-in-2017-b6ac3dddd0cf) 
 - [Darius Foroux - Practical Personal Development That Doesn't Suck](http://dariusforoux.com/) 
+- [I Have 15 ideas To Change Your Life. Do you Have 5 Minutes?](https://medium.com/art-of-practicality/i-have-15-ideas-to-change-your-life-do-you-have-5-minutes-f84c3f99b3c5) 
