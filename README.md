@@ -81,3 +81,4 @@ The tool that I used is a Chrome extension, which address is [Idnan/like-on-git]
 
 ### May 23, 2017
 - [Track errors with modern exception logging for JavaScript, Python, Ruby, Java, and Node.js](https://sentry.io/welcome/) 
+- [getsentry/raven-python: Raven is a Python client for Sentry (getsentry.com)](https://github.com/getsentry/raven-python) 
