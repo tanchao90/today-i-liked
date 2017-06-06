@@ -89,3 +89,6 @@ The tool that I used is a Chrome extension, which address is [Idnan/like-on-git]
 
 ### June 5, 2017
 - [[转] Instagram 在 PyCon 2017 的演讲摘要 - 知乎专栏](https://zhuanlan.zhihu.com/p/27232791) 
+
+### June 6, 2017
+- [(2 条消息)数据可视化的软件，个人使用的，求推荐，最好多说几个，多多益善？ - 知乎](https://www.zhihu.com/question/29000497) 
