@@ -101,3 +101,4 @@ The tool that I used is a Chrome extension, which address is [Idnan/like-on-git]
 ### June 21, 2017
 - [Spring Boot系列(六)：如何优雅的使用mybatis - 知乎专栏](https://zhuanlan.zhihu.com/p/25010714) 
 - [关于Mybatis动态赋值的三种方式 · Vence/personalKnowledge Wiki](https://github.com/Vence/personalKnowledge/wiki/%E5%85%B3%E4%BA%8EMybatis%E5%8A%A8%E6%80%81%E8%B5%8B%E5%80%BC%E7%9A%84%E4%B8%89%E7%A7%8D%E6%96%B9%E5%BC%8F) 
+- [MyBatis传入参数与parameterType – OpenWares | Open Source and Free Matters](http://openwares.net/database/mybatis_parametertype.html) 
