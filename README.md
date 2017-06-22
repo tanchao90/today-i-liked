@@ -106,3 +106,4 @@ The tool that I used is a Chrome extension, which address is [Idnan/like-on-git]
 ### June 22, 2017
 - [Mybatis3.3.x技术内幕（十三）：Mybatis之RowBounds分页原理 - 祖大俊的个人页面](https://my.oschina.net/zudajun/blog/671446) 
 - [java - eliminating duplicate Enum code - Stack Overflow](https://stackoverflow.com/questions/77213/eliminating-duplicate-enum-code) 
+- [java - eliminating duplicate Enum code - Stack Overflow](https://stackoverflow.com/questions/77213/eliminating-duplicate-enum-code) 
