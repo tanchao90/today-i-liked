@@ -107,3 +107,6 @@ The tool that I used is a Chrome extension, which address is [Idnan/like-on-git]
 - [Mybatis3.3.x技术内幕（十三）：Mybatis之RowBounds分页原理 - 祖大俊的个人页面](https://my.oschina.net/zudajun/blog/671446) 
 - [java - eliminating duplicate Enum code - Stack Overflow](https://stackoverflow.com/questions/77213/eliminating-duplicate-enum-code) 
 - [java - eliminating duplicate Enum code - Stack Overflow](https://stackoverflow.com/questions/77213/eliminating-duplicate-enum-code) 
+
+### June 30, 2017
+- [java - Unable to get a generic ResponseEntity<T> where T is a generic class "SomeClass<SomeGenericType>" - Stack Overflow](https://stackoverflow.com/questions/13819734/unable-to-get-a-generic-responseentityt-where-t-is-a-generic-class-someclass) 
