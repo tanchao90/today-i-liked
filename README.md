@@ -114,3 +114,4 @@ The tool that I used is a Chrome extension, which address is [Idnan/like-on-git]
 
 ### July 2, 2017
 - [function - Method call with Generic return type in Java - Stack Overflow](https://stackoverflow.com/questions/15118271/method-call-with-generic-return-type-in-java) 
+- [Java 8 Method Reference: How to Use it | Codementor](https://www.codementor.io/eh3rrera/using-java-8-method-reference-du10866vx) 
