@@ -111,3 +111,6 @@ The tool that I used is a Chrome extension, which address is [Idnan/like-on-git]
 ### June 30, 2017
 - [java - Unable to get a generic ResponseEntity<T> where T is a generic class "SomeClass<SomeGenericType>" - Stack Overflow](https://stackoverflow.com/questions/13819734/unable-to-get-a-generic-responseentityt-where-t-is-a-generic-class-someclass) 
 - [java - When is the @JsonProperty property used and what is it used for? - Stack Overflow](https://stackoverflow.com/questions/12583638/when-is-the-jsonproperty-property-used-and-what-is-it-used-for) 
+
+### July 2, 2017
+- [function - Method call with Generic return type in Java - Stack Overflow](https://stackoverflow.com/questions/15118271/method-call-with-generic-return-type-in-java) 
