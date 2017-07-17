@@ -118,3 +118,6 @@ The tool that I used is a Chrome extension, which address is [Idnan/like-on-git]
 
 ### July 12, 2017
 - [Spring Framework: @RestController vs. @Controller - DZone Java](https://dzone.com/articles/spring-framework-restcontroller-vs-controller) 
+
+### July 17, 2017
+- [Spring - Controlling Beans Loading Order, using @DependsOn](http://www.logicbig.com/tutorials/spring-framework/spring-core/using-depends-on/) 
