@@ -121,3 +121,6 @@ The tool that I used is a Chrome extension, which address is [Idnan/like-on-git]
 
 ### July 17, 2017
 - [Spring - Controlling Beans Loading Order, using @DependsOn](http://www.logicbig.com/tutorials/spring-framework/spring-core/using-depends-on/) 
+
+### July 18, 2017
+- [SpringBoot优化内嵌的Tomcat ---设置MaxConnections - 沧海一滴 - 博客园](http://www.cnblogs.com/softidea/p/5751596.html) 
