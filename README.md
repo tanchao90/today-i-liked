@@ -124,3 +124,6 @@ The tool that I used is a Chrome extension, which address is [Idnan/like-on-git]
 
 ### July 18, 2017
 - [SpringBoot优化内嵌的Tomcat ---设置MaxConnections - 沧海一滴 - 博客园](http://www.cnblogs.com/softidea/p/5751596.html) 
+
+### August 4, 2017 
+- [java - Spring cron expression for every day 1:01:am - Stack Overflow](https://stackoverflow.com/questions/26147044/spring-cron-expression-for-every-day-101am) 
