@@ -127,3 +127,6 @@ The tool that I used is a Chrome extension, which address is [Idnan/like-on-git]
 
 ### August 4, 2017 
 - [java - Spring cron expression for every day 1:01:am - Stack Overflow](https://stackoverflow.com/questions/26147044/spring-cron-expression-for-every-day-101am) 
+
+### August 11, 2017 
+- [【原创】MyBatis学习——databaseIdProvider和databaseId – 宋杰的站点](http://www.songjie.info/mybatis%E5%AD%A6%E4%B9%A0-databaseidprovider%E5%92%8Cdatabaseid/) 
