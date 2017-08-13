@@ -130,3 +130,6 @@ The tool that I used is a Chrome extension, which address is [Idnan/like-on-git]
 
 ### August 11, 2017 
 - [【原创】MyBatis学习——databaseIdProvider和databaseId – 宋杰的站点](http://www.songjie.info/mybatis%E5%AD%A6%E4%B9%A0-databaseidprovider%E5%92%8Cdatabaseid/) 
+
+### August 13, 2017 
+- [增强MyBatis注解 - 简书](http://www.jianshu.com/p/03642b807688) 
