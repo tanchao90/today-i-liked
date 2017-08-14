@@ -133,3 +133,6 @@ The tool that I used is a Chrome extension, which address is [Idnan/like-on-git]
 
 ### August 13, 2017 
 - [增强MyBatis注解 - 简书](http://www.jianshu.com/p/03642b807688) 
+
+### August 14, 2017 
+- [MySQL 清空数据表方法 - The code - SegmentFault](https://segmentfault.com/a/1190000007044923) 
