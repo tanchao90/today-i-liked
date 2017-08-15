@@ -136,3 +136,6 @@ The tool that I used is a Chrome extension, which address is [Idnan/like-on-git]
 
 ### August 14, 2017 
 - [MySQL 清空数据表方法 - The code - SegmentFault](https://segmentfault.com/a/1190000007044923) 
+
+### August 15, 2017 
+- [Java 8 中的 Streams API 详解](https://www.ibm.com/developerworks/cn/java/j-lo-java8streamapi/) 
