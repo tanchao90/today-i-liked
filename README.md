@@ -139,3 +139,6 @@ The tool that I used is a Chrome extension, which address is [Idnan/like-on-git]
 
 ### August 15, 2017 
 - [Java 8 中的 Streams API 详解](https://www.ibm.com/developerworks/cn/java/j-lo-java8streamapi/) 
+
+### August 17, 2017 
+- [代理模式及Java实现动态代理 - 简书](http://www.jianshu.com/p/6f6bb2f0ece9) 
