@@ -142,3 +142,4 @@ The tool that I used is a Chrome extension, which address is [Idnan/like-on-git]
 
 ### August 17, 2017 
 - [代理模式及Java实现动态代理 - 简书](http://www.jianshu.com/p/6f6bb2f0ece9) 
+- [详述 PO VO BO DTO DAO 和 POJO 的概念及区别 - 全栈开发者](http://www.admin10000.com/document/15653.html) 
