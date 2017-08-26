@@ -98,13 +98,7 @@ The tool that I used is a Chrome extension, which address is [Idnan/like-on-git]
 - [18.2. json — JSON encoder and decoder — Python 2.7.13 documentation](https://docs.python.org/2/library/json.html) 
 - [使用Python操作Redis | Debugo](http://debugo.com/python-redis/) 
 
-### June 21, 2017
-- [Spring Boot系列(六)：如何优雅的使用mybatis - 知乎专栏](https://zhuanlan.zhihu.com/p/25010714) 
-- [关于Mybatis动态赋值的三种方式 · Vence/personalKnowledge Wiki](https://github.com/Vence/personalKnowledge/wiki/%E5%85%B3%E4%BA%8EMybatis%E5%8A%A8%E6%80%81%E8%B5%8B%E5%80%BC%E7%9A%84%E4%B8%89%E7%A7%8D%E6%96%B9%E5%BC%8F) 
-- [MyBatis传入参数与parameterType – OpenWares | Open Source and Free Matters](http://openwares.net/database/mybatis_parametertype.html) 
-
 ### June 22, 2017
-- [Mybatis3.3.x技术内幕（十三）：Mybatis之RowBounds分页原理 - 祖大俊的个人页面](https://my.oschina.net/zudajun/blog/671446) 
 - [java - eliminating duplicate Enum code - Stack Overflow](https://stackoverflow.com/questions/77213/eliminating-duplicate-enum-code) 
 - [java - eliminating duplicate Enum code - Stack Overflow](https://stackoverflow.com/questions/77213/eliminating-duplicate-enum-code) 
 
@@ -128,11 +122,7 @@ The tool that I used is a Chrome extension, which address is [Idnan/like-on-git]
 ### August 4, 2017 
 - [java - Spring cron expression for every day 1:01:am - Stack Overflow](https://stackoverflow.com/questions/26147044/spring-cron-expression-for-every-day-101am) 
 
-### August 11, 2017 
-- [【原创】MyBatis学习——databaseIdProvider和databaseId – 宋杰的站点](http://www.songjie.info/mybatis%E5%AD%A6%E4%B9%A0-databaseidprovider%E5%92%8Cdatabaseid/) 
 
-### August 13, 2017 
-- [增强MyBatis注解 - 简书](http://www.jianshu.com/p/03642b807688) 
 
 ### August 14, 2017 
 - [MySQL 清空数据表方法 - The code - SegmentFault](https://segmentfault.com/a/1190000007044923) 
