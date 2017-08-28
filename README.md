@@ -134,3 +134,6 @@ The tool that I used is a Chrome extension, which address is [Idnan/like-on-git]
 - [代理模式及Java实现动态代理 - 简书](http://www.jianshu.com/p/6f6bb2f0ece9) 
 - [详述 PO VO BO DTO DAO 和 POJO 的概念及区别 - 全栈开发者](http://www.admin10000.com/document/15653.html) 
 - [Java 8 中的 Streams API 详解](https://www.ibm.com/developerworks/cn/java/j-lo-java8streamapi/) 
+
+### August 28, 2017 
+- [Paxos理论介绍(1): 朴素Paxos算法理论推导与证明 - 知乎专栏](https://zhuanlan.zhihu.com/p/21438357) 
