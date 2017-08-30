@@ -137,3 +137,6 @@ The tool that I used is a Chrome extension, which address is [Idnan/like-on-git]
 
 ### August 28, 2017 
 - [Paxos理论介绍(1): 朴素Paxos算法理论推导与证明 - 知乎专栏](https://zhuanlan.zhihu.com/p/21438357) 
+
+### August 30, 2017 
+- [Guava Cache的缓存管理与使用](https://mp.weixin.qq.com/s/vi8Y-u-uZc6V357yqwVH1g) 
