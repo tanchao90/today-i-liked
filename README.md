@@ -140,3 +140,4 @@ The tool that I used is a Chrome extension, which address is [Idnan/like-on-git]
 
 ### August 30, 2017 
 - [Guava Cache的缓存管理与使用](https://mp.weixin.qq.com/s/vi8Y-u-uZc6V357yqwVH1g) 
+- [【MySQL】『浅入深出』MySQL 中事务的实现](http://draveness.me/mysql-transaction.html?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io) 
