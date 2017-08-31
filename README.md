@@ -142,3 +142,6 @@ The tool that I used is a Chrome extension, which address is [Idnan/like-on-git]
 - [Guava Cache的缓存管理与使用](https://mp.weixin.qq.com/s/vi8Y-u-uZc6V357yqwVH1g) 
 - [【MySQL】『浅入深出』MySQL 中事务的实现](http://draveness.me/mysql-transaction.html?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io) 
 - [【MySQL】MySQL中EXPLAIN命令详解 — overtrue | 安正超博客](http://overtrue.me/articles/2014/10/mysql-explain.html) 
+
+### August 31, 2017 
+- [使用 Supervisor 来管理 Redis 进程 | Leo的博客](https://leehao.me/%E4%BD%BF%E7%94%A8-Supervisor-%E6%9D%A5%E7%AE%A1%E7%90%86-Redis-%E8%BF%9B%E7%A8%8B/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io) 
