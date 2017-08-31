@@ -145,3 +145,4 @@ The tool that I used is a Chrome extension, which address is [Idnan/like-on-git]
 
 ### August 31, 2017 
 - [使用 Supervisor 来管理 Redis 进程 | Leo的博客](https://leehao.me/%E4%BD%BF%E7%94%A8-Supervisor-%E6%9D%A5%E7%AE%A1%E7%90%86-Redis-%E8%BF%9B%E7%A8%8B/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io) 
+- [Supervisor: A Process Control System — Supervisor 3.3.3 documentation](http://supervisord.org/) 
