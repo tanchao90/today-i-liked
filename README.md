@@ -151,3 +151,4 @@ The tool that I used is a Chrome extension, which address is [Idnan/like-on-git]
 
 ### September 1, 2017 
 - [supervisord - Error while running zookeeper under supervison - Stack Overflow](https://stackoverflow.com/questions/33604097/error-while-running-zookeeper-under-supervison) 
+- [使用 Supervisor 来管理 Redis 进程 | Leo的博客](https://leehao.me/%E4%BD%BF%E7%94%A8-Supervisor-%E6%9D%A5%E7%AE%A1%E7%90%86-Redis-%E8%BF%9B%E7%A8%8B/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io) 
