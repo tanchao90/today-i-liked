@@ -148,3 +148,6 @@ The tool that I used is a Chrome extension, which address is [Idnan/like-on-git]
 - [Supervisor: A Process Control System — Supervisor 3.3.3 documentation](http://supervisord.org/) 
 - [[feature request] options to deal with bad logging situation · Issue #709 · Supervisor/supervisor](https://github.com/Supervisor/supervisor/issues/709) 
 - [supervisor 进程管理 - 简书](http://www.jianshu.com/p/805977544d7f) 
+
+### September 1, 2017 
+- [supervisord - Error while running zookeeper under supervison - Stack Overflow](https://stackoverflow.com/questions/33604097/error-while-running-zookeeper-under-supervison) 
