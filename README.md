@@ -156,3 +156,4 @@ The tool that I used is a Chrome extension, which address is [Idnan/like-on-git]
 
 ### September 10, 2017 
 - [(7 条消息)哪些 Python 库让你相见恨晚？ - 知乎](https://www.zhihu.com/question/24590883) 
+- [justjavac/awesome-wechat-weapp: 微信小程序开发资源汇总 :100:](https://github.com/justjavac/awesome-wechat-weapp) 
