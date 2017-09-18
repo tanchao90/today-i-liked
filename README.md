@@ -161,3 +161,6 @@ The tool that I used is a Chrome extension, which address is [Idnan/like-on-git]
 ### September 14, 2017 
 - [git rebase 和 git merge 的区别 - 简书](http://www.jianshu.com/p/f23f72251abc) 
 - [geeeeeeeeek/git-recipes: Git recipes in Chinese. 高质量的Git中文教程.](https://github.com/geeeeeeeeek/git-recipes) 
+
+### September 18, 2017 
+- [程序世界里的不信任原则 - 腾云阁 - 腾讯云](https://cloud.tencent.com/community/article/715478?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io) 
