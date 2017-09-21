@@ -164,3 +164,6 @@ The tool that I used is a Chrome extension, which address is [Idnan/like-on-git]
 
 ### September 18, 2017 
 - [程序世界里的不信任原则 - 腾云阁 - 腾讯云](https://cloud.tencent.com/community/article/715478?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io) 
+
+### September 21, 2017 
+- [SQLAlchemy打印SQL语句 - The Big Data Way - ITeye博客](http://heipark.iteye.com/blog/1847635) 
