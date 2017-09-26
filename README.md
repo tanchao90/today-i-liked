@@ -172,3 +172,6 @@ The tool that I used is a Chrome extension, which address is [Idnan/like-on-git]
 
 ### September 24, 2017 
 - [jvm系列(五):Java GC 分析](https://mp.weixin.qq.com/s/S3PcA2KIzCVB2hJmsbVzyQ) 
+
+### September 26, 2017 
+- [Vim 编辑器 [Python 俱乐部]](http://www.pythonclub.org/linux/vim/start) 
