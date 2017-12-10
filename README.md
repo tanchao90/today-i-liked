@@ -175,3 +175,6 @@ The tool that I used is a Chrome extension, which address is [Idnan/like-on-git]
 
 ### September 26, 2017 
 - [Vim 编辑器 [Python 俱乐部]](http://www.pythonclub.org/linux/vim/start) 
+
+### December 10, 2017 
+- [编写 Spring 配置文件的13个最佳实践 | 开发者秘籍_开发者提升](https://dev-cheats.com/java/best-practices-for-writing-spring-configuration-files.html) 
