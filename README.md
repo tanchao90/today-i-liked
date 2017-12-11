@@ -178,3 +178,6 @@ The tool that I used is a Chrome extension, which address is [Idnan/like-on-git]
 
 ### December 10, 2017 
 - [编写 Spring 配置文件的13个最佳实践 | 开发者秘籍_开发者提升](https://dev-cheats.com/java/best-practices-for-writing-spring-configuration-files.html) 
+
+### December 11, 2017 
+- [数据库相关中间件全家桶 - 为程序员服务](http://ju.outofmemory.cn/entry/287964) 
