@@ -181,3 +181,6 @@ The tool that I used is a Chrome extension, which address is [Idnan/like-on-git]
 
 ### December 11, 2017 
 - [数据库相关中间件全家桶 - 为程序员服务](http://ju.outofmemory.cn/entry/287964) 
+
+### December 12, 2017 
+- [走近比特币：一个故事看懂区块链原理](https://mp.weixin.qq.com/s/hoRLBOGfDOe57dEzdNzMoQ) 
