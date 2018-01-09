@@ -185,3 +185,6 @@ The tool that I used is a Chrome extension, which address is [Idnan/like-on-git]
 ### December 12, 2017 
 - [走近比特币：一个故事看懂区块链原理](https://mp.weixin.qq.com/s/hoRLBOGfDOe57dEzdNzMoQ) 
 - [LevelDB入门教程十篇](https://zhuanlan.zhihu.com/p/25349591?utm_source=wechat_session&utm_medium=social) 
+
+### January 9, 2018 
+- [Java Code Example org.springframework.jdbc.datasource.init.ResourceDatabasePopulator](https://www.programcreek.com/java-api-examples/index.php?api=org.springframework.jdbc.datasource.init.ResourceDatabasePopulator) 
