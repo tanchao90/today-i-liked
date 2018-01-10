@@ -188,3 +188,6 @@ The tool that I used is a Chrome extension, which address is [Idnan/like-on-git]
 
 ### January 9, 2018 
 - [Java Code Example org.springframework.jdbc.datasource.init.ResourceDatabasePopulator](https://www.programcreek.com/java-api-examples/index.php?api=org.springframework.jdbc.datasource.init.ResourceDatabasePopulator) 
+
+### January 10, 2018 
+- [魔鬼在细节中 - 梁飞的博客 - ITeye博客](http://javatar.iteye.com/blog/1056664?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io) 
