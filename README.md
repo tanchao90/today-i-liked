@@ -191,3 +191,4 @@ The tool that I used is a Chrome extension, which address is [Idnan/like-on-git]
 
 ### January 10, 2018 
 - [魔鬼在细节中 - 梁飞的博客 - ITeye博客](http://javatar.iteye.com/blog/1056664?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io) 
+- [数据库读写分离架构，为什么我不喜欢](https://mp.weixin.qq.com/s/6mov6Ke3kyAUcWygDj-uaQ) 
