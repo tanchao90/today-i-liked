@@ -195,3 +195,6 @@ The tool that I used is a Chrome extension, which address is [Idnan/like-on-git]
 
 ### January 21, 2018 
 - [如何提升你的能力？给年轻程序员的几条建议](http://tech.glowing.com/cn/advices-to-junior-developers/) 
+
+### January 22, 2018 
+- [技术实力超群的Netflix，为何没有 CTO -亿欧](https://www.iyiou.com/p/59126) 
