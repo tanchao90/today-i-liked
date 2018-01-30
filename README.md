@@ -198,3 +198,6 @@ The tool that I used is a Chrome extension, which address is [Idnan/like-on-git]
 
 ### January 22, 2018 
 - [技术实力超群的Netflix，为何没有 CTO -亿欧](https://www.iyiou.com/p/59126) 
+
+### January 30, 2018 
+- [mac下多个jdk版本共存](https://gist.github.com/biezhi/62d8a39b1f531f49e5025f31834a73dc) 
