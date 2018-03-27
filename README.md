@@ -201,3 +201,6 @@ The tool that I used is a Chrome extension, which address is [Idnan/like-on-git]
 
 ### January 30, 2018 
 - [mac下多个jdk版本共存](https://gist.github.com/biezhi/62d8a39b1f531f49e5025f31834a73dc) 
+
+### March 27, 2018 
+- [G1垃圾回收器 - 简书](https://www.jianshu.com/p/613f56425fb2) 
