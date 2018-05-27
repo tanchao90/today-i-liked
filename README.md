@@ -9,6 +9,7 @@ The tool that I used is a Chrome extension, which address is [Idnan/like-on-git]
 - [whtsky/WeRoBot: WeRoBot 是一个微信公众号开发框架](https://github.com/whtsky/WeRoBot) 
 - [ngrok - secure introspectable tunnels to localhost](https://ngrok.com/) 
 
+- [IDEA的JVM参数调优 | 邱永臣叫西门追雪](http://www.iloveqyc.com/2018/03/01/idea-jvm/) 
 ### May 5, 2017
 - [ENet: ENet](http://enet.bespin.org/) 
 - [UDT: Breaking the Data Transfer Bottleneck](http://udt.sourceforge.net/index.html) 
