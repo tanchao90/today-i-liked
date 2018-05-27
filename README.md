@@ -207,3 +207,6 @@ The tool that I used is a Chrome extension, which address is [Idnan/like-on-git]
 
 ### April 12, 2018 
 - [从 MongoDB 及 Mysql 谈B/B+树 - CSDN博客](https://blog.csdn.net/wwh578867817/article/details/50493940) 
+
+### May 27, 2018 
+- [天下无难试之Redis面试刁难大全](https://mp.weixin.qq.com/s/507jyNbL4xCkxyW6Xk15Xg) 
