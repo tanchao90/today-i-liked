@@ -6,6 +6,7 @@ The tool that I used is a Chrome extension, which address is [Idnan/like-on-git]
 
 ### May 28, 2018 
 - [关于Jvm知识看这一篇就够了](https://mp.weixin.qq.com/s/4c9K5eYMFGVV2WyKaYXVBA) 
+- [G1 垃圾收集器介绍](https://www.javadoop.com/post/g1?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io) 
 ### May 4, 2017
 - [keon/algorithms: Minimal examples of data structures and algorithms in Python](https://github.com/keon/algorithms) 
 - [Idnan/bash-guide: A guide to learn bash](https://github.com/Idnan/bash-guide) 
