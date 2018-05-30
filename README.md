@@ -4,6 +4,9 @@ Save links that I like.
 The tool that I used is a Chrome extension, which address is [Idnan/like-on-git](https://github.com/Idnan/like-on-git).
 
 
+
+### May 30, 2018 
+- [linux grep命令 - 风生水起 - 博客园](http://www.cnblogs.com/end/archive/2012/02/21/2360965.html#commentform) 
 ### May 28, 2018 
 - [关于Jvm知识看这一篇就够了](https://mp.weixin.qq.com/s/4c9K5eYMFGVV2WyKaYXVBA) 
 - [G1 垃圾收集器介绍](https://www.javadoop.com/post/g1?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io) 
