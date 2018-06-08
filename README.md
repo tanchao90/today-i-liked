@@ -5,6 +5,9 @@ The tool that I used is a Chrome extension, which address is [Idnan/like-on-git]
 
 
 
+
+### June 8, 2018 
+- [求不更学不动之Redis5.0新特性Stream尝鲜](https://mp.weixin.qq.com/s/rjTt0HMNCk9VO5x5Mi_c-w) 
 ### May 30, 2018 
 - [linux grep命令 - 风生水起 - 博客园](http://www.cnblogs.com/end/archive/2012/02/21/2360965.html#commentform) 
 ### May 28, 2018 
