@@ -13,6 +13,7 @@ The tool that I used is a Chrome extension, which address is [Idnan/like-on-git]
 - [Google Java Style Guide](https://google.github.io/styleguide/javaguide.html) 
 - [Go by Example](https://gobyexample.com/) 
 - [Go 101 - Go 101](https://go101.org/article/101.html) 
+- [Effective Go - The Go Programming Language](https://golang.org/doc/effective_go.html) 
 ### June 10, 2018 
 - [微服务2.0技术栈选型手册](https://mp.weixin.qq.com/s/OloZhn2pwfIrOQit_8jefA) 
 ### June 8, 2018 
