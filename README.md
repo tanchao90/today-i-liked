@@ -9,6 +9,9 @@ The tool that I used is a Chrome extension, which address is [Idnan/like-on-git]
 
 
 
+
+### July 18, 2018 
+- [高效编写Dockerfile的几条准则 - 简书](https://www.jianshu.com/p/a9d08ba3d979?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io) 
 ### July 16, 2018 
 - [VScode中文文档 · GitBook](https://legacy.gitbook.com/book/jeasonstudio/vscode-cn-doc/details) 
 ### July 15, 2018 
