@@ -10,6 +10,9 @@ The tool that I used is a Chrome extension, which address is [Idnan/like-on-git]
 
 
 
+
+### July 23, 2018 
+- [HashMap? ConcurrentHashMap? 相信看完这篇没人能难住你！ | crossoverJie's Blog](https://crossoverjie.top/2018/07/23/java-senior/ConcurrentHashMap/) 
 ### July 18, 2018 
 - [高效编写Dockerfile的几条准则 - 简书](https://www.jianshu.com/p/a9d08ba3d979?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io) 
 ### July 16, 2018 
