@@ -13,6 +13,9 @@ The tool that I used is a Chrome extension, which address is [Idnan/like-on-git]
 
 
 
+
+### October 26, 2018 
+- [为什么你应该停止阅读新闻? - 林本托 - 博客园](https://www.cnblogs.com/IcanFixIt/p/8524843.html) 
 ### August 5, 2018 
 - [CSS3 @media 用法总结 - 简书](https://www.jianshu.com/p/b8f375b52a61) 
 ### July 26, 2018 
